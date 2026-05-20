@@ -1,0 +1,15 @@
+2026-05-20 14:53:12,600 INFO Forza UDP logger starting
+2026-05-20 14:53:12,600 INFO Packet format: horizon
+2026-05-20 14:53:12,600 INFO Expected minimum packet size: 323 bytes
+2026-05-20 14:53:12,600 INFO Listening on 0.0.0.0:9999
+2026-05-20 14:53:12,600 INFO Writing session files to data\20260520_145312
+2026-05-20 14:53:17,594 INFO Received 300 packets, skipped 0
+2026-05-20 14:53:22,594 INFO Received 600 packets, skipped 0
+2026-05-20 14:53:27,594 INFO Received 900 packets, skipped 0
+2026-05-20 14:53:32,594 INFO Received 1200 packets, skipped 0
+2026-05-20 14:53:37,595 INFO Received 1500 packets, skipped 0
+2026-05-20 14:53:42,593 INFO Received 1800 packets, skipped 0
+2026-05-20 14:53:47,594 INFO Received 2100 packets, skipped 0
+2026-05-20 14:53:52,593 INFO Received 2400 packets, skipped 0
+2026-05-20 14:53:54,612 INFO Stop requested by user
+2026-05-20 14:53:54,612 INFO Stopped. Received 2520 packets, skipped 0
